@@ -1,6 +1,7 @@
 # List of free cookie law tools
 
 + [Cookies-enabler](https://github.com/lucatwiv/Free-cookie-law-tools/blob/master/free-cookie-law-tools.md#cookies-enabler)
++ [Cookiechoices](https://github.com/lucatwiv/Free-cookie-law-tools/blob/master/free-cookie-law-tools.md#cookiechoices)
 + [Cookieconsent](https://github.com/lucatwiv/Free-cookie-law-tools/blob/master/free-cookie-law-tools.md#cookieconsent)
 + [Cookiecuttr](https://github.com/lucatwiv/Free-cookie-law-tools/blob/master/free-cookie-law-tools.md#cookiecuttr)
 + [Divascookies](https://github.com/lucatwiv/Free-cookie-law-tools/blob/master/free-cookie-law-tools.md#divascookies)
@@ -21,6 +22,12 @@ Please describe the pros and cons of the tools.
 * Enable cookies when the user clicks on any element on the page that doesn't belong to the notice banner, or scrolls
 * Disable cookies button 
 * Currently developed
+
+## Cookiechoices
+[cookiechoices.org](https://www.cookiechoices.org)
+
+**Cons**
+* Not preventing cookies
 
 ## Cookieconsent
 [github.com/silktide/cookieconsent](https://github.com/silktide/cookieconsent)
