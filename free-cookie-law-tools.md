@@ -2,9 +2,9 @@
 
 + [Cookies-enabler](https://github.com/lucatwiv/Free-cookie-law-tools/blob/master/free-cookie-law-tools.md#cookies-enabler)
 + [Cookieconsent](https://github.com/lucatwiv/Free-cookie-law-tools/blob/master/free-cookie-law-tools.md#cookieconsent)
-+ [EUCookieLaw](https://github.com/lucatwiv/Free-cookie-law-tools/blob/master/free-cookie-law-tools.md#eucookielaw)
 + [Cookiecuttr](https://github.com/lucatwiv/Free-cookie-law-tools/blob/master/free-cookie-law-tools.md#cookiecuttr)
 + [Divascookies](https://github.com/lucatwiv/Free-cookie-law-tools/blob/master/free-cookie-law-tools.md#divascookies)
++ [EUCookieLaw](https://github.com/lucatwiv/Free-cookie-law-tools/blob/master/free-cookie-law-tools.md#eucookielaw)
  
 
 
