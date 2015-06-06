@@ -38,10 +38,16 @@ Please describe the pros and cons of the tools.
 * Not currently developed
  
 ## Cookiecuttr
-* [cookiecuttr.com](http://cookiecuttr.com/)
+[cookiecuttr.com](http://cookiecuttr.com/)
+
+**Pros**
+* Preventing cookies
 
 ## Divascookies
-* [Divascookies](http://www.codingdivas.net/divascookies/)
+[divascookies](http://www.codingdivas.net/divascookies/)
+
+**Pros**
+* Preventing cookies
 
 ## EUCookieLaw
 [github.com/diegolamonica/EUCookieLaw](https://github.com/diegolamonica/EUCookieLaw)
