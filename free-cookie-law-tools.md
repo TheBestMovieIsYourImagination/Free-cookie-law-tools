@@ -6,7 +6,7 @@
  
 
 
-Please describe the pros and cons of the tools in [free-cookie-law-tools.md](https://github.com/lucatwiv/Free-cookie-law-tools/blob/master/free-cookie-law-tools.md)
+# Please describe the pros and cons of the tools.
 
 ## Cookies enabler
 [github.com/nicholasruggeri/cookies-enabler](https://github.com/nicholasruggeri/cookies-enabler)
