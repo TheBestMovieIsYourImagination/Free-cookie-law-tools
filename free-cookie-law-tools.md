@@ -1,8 +1,8 @@
 # List of free cookie law tools
 
 + [Cookies-enabler](https://github.com/lucatwiv/Free-cookie-law-tools/blob/master/free-cookie-law-tools.md#cookies-enabler)
-+ [Cookieconsent](https://silktide.com/tools/cookie-consent/)
-+ [EUCookieLaw](https://github.com/diegolamonica/EUCookieLaw)
++ [Cookieconsent](https://github.com/lucatwiv/Free-cookie-law-tools/blob/master/free-cookie-law-tools.md#cookieconsent)
++ [EUCookieLaw](https://github.com/lucatwiv/Free-cookie-law-tools/blob/master/free-cookie-law-tools.md#EUCookieLaw)
  
 
 
@@ -34,5 +34,7 @@ Please describe the pros and cons of the tools in [free-cookie-law-tools.md](htt
 **Cons**
 * On mobile devices the banner covers the entire screen
 * Not currently developed
+ 
 
+## EUCookieLaw
 
