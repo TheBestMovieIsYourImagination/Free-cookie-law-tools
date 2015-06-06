@@ -2,7 +2,7 @@
 
 + [Cookies-enabler](https://github.com/lucatwiv/Free-cookie-law-tools/blob/master/free-cookie-law-tools.md#cookies-enabler)
 + [Cookieconsent](https://github.com/lucatwiv/Free-cookie-law-tools/blob/master/free-cookie-law-tools.md#cookieconsent)
-+ [EUCookieLaw](https://github.com/lucatwiv/Free-cookie-law-tools/blob/master/free-cookie-law-tools.md#EUCookieLaw)
++ [EUCookieLaw](https://github.com/lucatwiv/Free-cookie-law-tools/blob/master/free-cookie-law-tools.md#eucookielaw)
  
 
 
@@ -37,4 +37,5 @@ Please describe the pros and cons of the tools in [free-cookie-law-tools.md](htt
  
 
 ## EUCookieLaw
+[github.com/diegolamonica/EUCookieLaw](https://github.com/diegolamonica/EUCookieLaw)
 
