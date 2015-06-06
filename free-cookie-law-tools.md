@@ -3,6 +3,7 @@
 + [Cookies-enabler](https://github.com/lucatwiv/Free-cookie-law-tools/blob/master/free-cookie-law-tools.md#cookies-enabler)
 + [Cookieconsent](https://github.com/lucatwiv/Free-cookie-law-tools/blob/master/free-cookie-law-tools.md#cookieconsent)
 + [EUCookieLaw](https://github.com/lucatwiv/Free-cookie-law-tools/blob/master/free-cookie-law-tools.md#eucookielaw)
++ [Cookiecuttr]
  
 
 
@@ -35,6 +36,8 @@ Please describe the pros and cons of the tools.
 * On mobile devices the banner covers the entire screen
 * Not currently developed
  
+## Cookiecuttr
+* [cookiecuttr.com](http://cookiecuttr.com/)
 
 ## EUCookieLaw
 [github.com/diegolamonica/EUCookieLaw](https://github.com/diegolamonica/EUCookieLaw)
