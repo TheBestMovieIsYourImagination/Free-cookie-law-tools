@@ -6,7 +6,7 @@
  
 
 
-# Please describe the pros and cons of the tools.
+Please describe the pros and cons of the tools.
 
 ## Cookies enabler
 [github.com/nicholasruggeri/cookies-enabler](https://github.com/nicholasruggeri/cookies-enabler)
