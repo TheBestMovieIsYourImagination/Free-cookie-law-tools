@@ -20,7 +20,7 @@ Wordpress plugin
 
 Please describe the pros and cons of the tools.
 
-## Cookies enabler
+### Cookies enabler
 [github.com/nicholasruggeri/cookies-enabler](https://github.com/nicholasruggeri/cookies-enabler)
 
 **Pros**
@@ -32,13 +32,13 @@ Please describe the pros and cons of the tools.
 * Disable cookies button 
 * Currently developed
 
-## Cookiechoices
+### Cookiechoices
 [cookiechoices.org](https://www.cookiechoices.org)
 
 **Cons**
 * Not preventing cookies
 
-## Cookieconsent
+### Cookieconsent
 [github.com/silktide/cookieconsent](https://github.com/silktide/cookieconsent)
 
 **Pros**
@@ -59,28 +59,29 @@ Please describe the pros and cons of the tools.
 **Pros**
 * Preventing cookies
 
-## Divascookies
+### Divascookies
 [divascookies](http://www.codingdivas.net/divascookies/)
 
 **Pros**
 * Preventing cookies
 
-## EUCookieLaw
+### EUCookieLaw
 [github.com/diegolamonica/EUCookieLaw](https://github.com/diegolamonica/EUCookieLaw)
 
+<br><br>
 ## Wordpress Plugin
 
-## Cookie notice
+### Cookie notice
 [wordpress.org/plugins/cookie-notice/](https://wordpress.org/plugins/cookie-notice/)
 
-## Cookieconsent
+### Cookieconsent
 [wordpress.org/plugins/wf-cookie-consent/](https://wordpress.org/plugins/wf-cookie-consent/)
 
-## EUCookieLawPlugin
+### EUCookieLawPlugin
 [github.com/diegolamonica/EUCookieLaw](https://github.com/diegolamonica/EUCookieLaw)
 
-## Italy cookie choices
+### Italy cookie choices
 [github.com/overclokk/italy-cookie-choices](https://github.com/overclokk/italy-cookie-choices)
 
-## Wordpress cookie law plugin
+### Wordpress cookie law plugin
 [github.com/henrytriplette/wordpress-cookie-law-plugin](https://github.com/henrytriplette/wordpress-cookie-law-plugin)
