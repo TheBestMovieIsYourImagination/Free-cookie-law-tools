@@ -26,7 +26,7 @@ Please describe the pros and cons of the tools.
 * Blocking Cookies from Script Tags
 * Blocking Cookies from iFrames
 * iFrames Placeholder
-* Enable cookies when the user clicks on any element on the page that doesn't belong to the notice banner, or scrolls
+* Enables cookies when the user clicks on any element on the page that doesn't belong to the notice banner, or scrolls
 * Disable cookies button 
 * Currently developed
 
@@ -56,6 +56,10 @@ Please describe the pros and cons of the tools.
 
 **Pros**
 * Preventing cookies
+
+**Cons**
+* Require jQuery
+
 
 ### Divascookies
 [divascookies](http://www.codingdivas.net/divascookies/)
