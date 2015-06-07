@@ -7,6 +7,15 @@
 + [Divascookies](https://github.com/lucatwiv/Free-cookie-law-tools/blob/master/free-cookie-law-tools.md#divascookies)
 + [EUCookieLaw](https://github.com/lucatwiv/Free-cookie-law-tools/blob/master/free-cookie-law-tools.md#eucookielaw)
  
+Wordpress plugin
+
++ [Cookie-notice](https://github.com/lucatwiv/Free-cookie-law-tools/blob/master/free-cookie-law-tools.md#cookie-notice)
++ [Cookieconsent](https://github.com/lucatwiv/Free-cookie-law-tools/blob/master/free-cookie-law-tools.md#cookie-consent)
++ [EUCookieLaw](https://github.com/lucatwiv/Free-cookie-law-tools/blob/master/free-cookie-law-tools.md#EUCookieLaw)
++ [Italy-cookie-choices](https://github.com/lucatwiv/Free-cookie-law-tools/blob/master/free-cookie-law-tools.md#italy-cookie-choices)
++ [Wordpress-cookie-law-plugin](https://github.com/lucatwiv/Free-cookie-law-tools/blob/master/free-cookie-law-tools.md#wordpress-cookie-law-)
+
+
 
 
 Please describe the pros and cons of the tools.
@@ -59,3 +68,19 @@ Please describe the pros and cons of the tools.
 ## EUCookieLaw
 [github.com/diegolamonica/EUCookieLaw](https://github.com/diegolamonica/EUCookieLaw)
 
+## Wordpress Plugin
+
+## Cookie notice
+[wordpress.org/plugins/cookie-notice/](https://wordpress.org/plugins/cookie-notice/)
+
+## Cookieconsent
+[wordpress.org/plugins/wf-cookie-consent/](https://wordpress.org/plugins/wf-cookie-consent/)
+
+## EUCookieLawPlugin
+[github.com/diegolamonica/EUCookieLaw](https://github.com/diegolamonica/EUCookieLaw)
+
+## Italy cookie choices
+[github.com/overclokk/italy-cookie-choices](https://github.com/overclokk/italy-cookie-choices)
+
+## Wordpress cookie law plugin
+[github.com/henrytriplette/wordpress-cookie-law-plugin](https://github.com/henrytriplette/wordpress-cookie-law-plugin)
