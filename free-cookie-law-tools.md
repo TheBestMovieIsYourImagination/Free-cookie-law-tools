@@ -22,9 +22,9 @@ Please describe the pros and cons of the tools.
 [github.com/nicholasruggeri/cookies-enabler](https://github.com/nicholasruggeri/cookies-enabler)
 
 **Pros**
-* Preventing cookies
-* Blocking Cookies from Script Tags
-* Blocking Cookies from iFrames
+* Prevents cookies
+* Blocks Cookies from Script Tags
+* Blocks Cookies from iFrames
 * iFrames Placeholder
 * Enables cookies when the user clicks on any element on the page that doesn't belong to the notice banner, or scrolls
 * Disable cookies button 
@@ -34,13 +34,13 @@ Please describe the pros and cons of the tools.
 [cookiechoices.org](https://www.cookiechoices.org)
 
 **Cons**
-* Not preventing cookies
+* Does not prevent cookies
 
 ### Cookieconsent
 [github.com/silktide/cookieconsent](https://github.com/silktide/cookieconsent)
 
 **Pros**
-* Preventig cookies
+* Prevents cookies
 * The user can choose which cookies category to disable 
 * Only show to EU visitors
 * Opt in once for all sites
@@ -55,17 +55,17 @@ Please describe the pros and cons of the tools.
 [cookiecuttr.com](http://cookiecuttr.com/)
 
 **Pros**
-* Preventing cookies
+* Prevents cookies
 
 **Cons**
-* Require jQuery
+* Requires jQuery
 
 
 ### Divascookies
 [divascookies](http://www.codingdivas.net/divascookies/)
 
 **Pros**
-* Preventing cookies
+* Prevents cookies
 
 ### EUCookieLaw
 [github.com/diegolamonica/EUCookieLaw](https://github.com/diegolamonica/EUCookieLaw)
