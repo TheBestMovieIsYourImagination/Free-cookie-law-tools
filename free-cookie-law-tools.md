@@ -15,11 +15,9 @@ Wordpress plugin
 + [Italy-cookie-choices](https://github.com/lucatwiv/Free-cookie-law-tools/blob/master/free-cookie-law-tools.md#italy-cookie-choices)
 + [Wordpress-cookie-law-plugin](https://github.com/lucatwiv/Free-cookie-law-tools/blob/master/free-cookie-law-tools.md#wordpress-cookie-law-)
 
-
-
-
+<br>
 Please describe the pros and cons of the tools.
-
+<br><br>
 ### Cookies enabler
 [github.com/nicholasruggeri/cookies-enabler](https://github.com/nicholasruggeri/cookies-enabler)
 
@@ -53,7 +51,7 @@ Please describe the pros and cons of the tools.
 * On mobile devices the banner covers the entire screen
 * Not currently developed
  
-## Cookiecuttr
+### Cookiecuttr
 [cookiecuttr.com](http://cookiecuttr.com/)
 
 **Pros**
