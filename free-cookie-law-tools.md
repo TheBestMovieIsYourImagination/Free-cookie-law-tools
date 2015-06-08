@@ -4,6 +4,7 @@
 + [Cookiechoices](https://github.com/lucatwiv/Free-cookie-law-tools/blob/master/free-cookie-law-tools.md#cookiechoices)
 + [Cookieconsent](https://github.com/lucatwiv/Free-cookie-law-tools/blob/master/free-cookie-law-tools.md#cookieconsent)
 + [Cookiecuttr](https://github.com/lucatwiv/Free-cookie-law-tools/blob/master/free-cookie-law-tools.md#cookiecuttr)
++ [Cookiekit](https://github.com/lucatwiv/Free-cookie-law-tools/blob/master/free-cookie-law-tools.md#cookiekit)
 + [Divascookies](https://github.com/lucatwiv/Free-cookie-law-tools/blob/master/free-cookie-law-tools.md#divascookies)
 + [EUCookieLaw](https://github.com/lucatwiv/Free-cookie-law-tools/blob/master/free-cookie-law-tools.md#eucookielaw)
  
@@ -60,6 +61,15 @@ Please describe the pros and cons of the tools.
 **Cons**
 * Requires jQuery
 
+### Cookiekit
+[cookiekit](http://www.marcopanichi.com/tools/cookiekit-soluzione-completa-adeguamento-legge-cookie/)
+
+**Pros**
+* Prevents cookies
+* Selective blocking for different categories of cookies
+ 
+**Cons**
+* Requires jQuery
 
 ### Divascookies
 [divascookies](http://www.codingdivas.net/divascookies/)
