@@ -3,6 +3,7 @@
 + [Cookies-enabler](https://github.com/lucatwiv/Free-cookie-law-tools/blob/master/free-cookie-law-tools.md#cookies-enabler)
 + [Cookiechoices](https://github.com/lucatwiv/Free-cookie-law-tools/blob/master/free-cookie-law-tools.md#cookiechoices)
 + [Cookieconsent](https://github.com/lucatwiv/Free-cookie-law-tools/blob/master/free-cookie-law-tools.md#cookieconsent)
++ [Cookieconsent2](https://github.com/lucatwiv/Free-cookie-law-tools/blob/master/free-cookie-law-tools.md#cookieconsent2)
 + [Cookiecuttr](https://github.com/lucatwiv/Free-cookie-law-tools/blob/master/free-cookie-law-tools.md#cookiecuttr)
 + [Cookiekit](https://github.com/lucatwiv/Free-cookie-law-tools/blob/master/free-cookie-law-tools.md#cookiekit)
 + [Divascookies](https://github.com/lucatwiv/Free-cookie-law-tools/blob/master/free-cookie-law-tools.md#divascookies)
@@ -27,7 +28,7 @@ Please describe the pros and cons of the tools.
 * Blocks Cookies from Script Tags
 * Blocks Cookies from iFrames
 * iFrames Placeholder
-* Enables cookies when the user clicks on any element on the page that doesn't belong to the notice banner, or scrolls
+* Click and scroll event: it enables cookies when the user clicks on any element on the page that doesn't belong to the notice banner, or scrolls
 * Disable cookies button 
 * Currently developed
 
@@ -49,9 +50,19 @@ Please describe the pros and cons of the tools.
 * Works with do not track
 
 **Cons**
-* On mobile devices the banner covers the entire screen
+* On mobile devices the banner fills the entire screen
 * Not currently developed
- 
+
+### Cookieconsent2
+[github.com/silktide/cookieconsent2](https://github.com/silktide/cookieconsent2)
+
+**Pros**
+* Prevents cookies
+* Various and responsive layout
+
+**Cons**
+* No scroll or click event to enable cookies
+
 ### Cookiecuttr
 [cookiecuttr.com](http://cookiecuttr.com/)
 
