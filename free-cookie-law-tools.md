@@ -28,7 +28,7 @@ Please describe the pros and cons of the tools.
 * Blocks cookies from script tags
 * Blocks cookies from iFrames
 * iFrames placeholder: option to disable parts of your page and display a message
-* Click and scroll event: option to enable cookies when the user clicks on any element on the page that doesn't belong to the notice banner, or scrolls
+* Click or scroll event: option to enable cookies when the user clicks on any element on the page that doesn't belong to the notice banner, or scrolls
 * Disable cookies button 
 * Currently developed
 
@@ -91,6 +91,7 @@ Please describe the pros and cons of the tools.
 * Consensus register (every IP Address has a file that documents consensus and settings)
 * IP Whitelist
 * ID + Base url setting
+* Click or scroll event: option to enable cookies when the user clicks on any element on the page or scrolls
  
 **Cons**
 * Requires jQuery
