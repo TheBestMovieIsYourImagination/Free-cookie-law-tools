@@ -25,10 +25,10 @@ Please describe the pros and cons of the tools.
 
 **Pros**
 * Prevents cookies
-* Blocks Cookies from Script Tags
-* Blocks Cookies from iFrames
-* iFrames Placeholder
-* Click and scroll event: it enables cookies when the user clicks on any element on the page that doesn't belong to the notice banner, or scrolls
+* Blocks cookies from script tags
+* Blocks cookies from iFrames
+* iFrames placeholder: option to disable parts of your page and display a message
+* Click and scroll event: option to enable cookies when the user clicks on any element on the page that doesn't belong to the notice banner, or scrolls
 * Disable cookies button 
 * Currently developed
 
@@ -68,9 +68,13 @@ Please describe the pros and cons of the tools.
 
 **Pros**
 * Prevents cookies
+* Option to disable parts of your page and display a message
+* Esplicit decline button
 
 **Cons**
 * Requires jQuery
+* Requires jQuery.cookie
+* No scroll or click event
 
 ### Cookiekit
 [cookiekit](http://www.marcopanichi.com/tools/cookiekit-soluzione-completa-adeguamento-legge-cookie/)
