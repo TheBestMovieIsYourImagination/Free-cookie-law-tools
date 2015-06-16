@@ -84,7 +84,6 @@ Please describe the pros and cons of the tools.
 * Self-generated Banner (brief policy, implied consent, yes/no buttons, modal or not)
 * Self-generated Cookie Policy
 * Cookie management (on/off) in Cookie Policy
-* Implied consent (scroll|browsing|click|closing banner)
 * Googlebot (and spiders in general) management
 * Selective blocking for different categories of cookies
 * Large list of more than 100 third part cookies description and links (opt out, policy)
