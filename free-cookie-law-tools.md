@@ -76,12 +76,22 @@ Please describe the pros and cons of the tools.
 [cookiekit](http://www.marcopanichi.com/tools/cookiekit-soluzione-completa-adeguamento-legge-cookie/)
 
 **Pros**
-* Prevents cookies
+* Prevents third part cookies
+* Self-generated Banner (brief policy, implied consent, yes/no buttons, modal or not)
+* Self-generated Cookie Policy
+* Cookie management (on/off) in Cookie Policy
+* Implied consent (scroll|browsing|click|closing banner)
+* Googlebot (and spiders in general) management
 * Selective blocking for different categories of cookies
+* Large list of more than 100 third part cookies description and links (opt out, policy)
+* Consensus register (every IP Address has a file that documents consensus and settings)
+* IP Whitelist
+* ID + Base url setting
  
 **Cons**
 * Requires jQuery
 * It doesn't work properly if a cache system is active
+* Requires PHP skills
 
 ### Divascookies
 [divascookies](http://www.codingdivas.net/divascookies/)
