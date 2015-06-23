@@ -13,7 +13,7 @@ Wordpress plugin
 
 + [Cookie-notice](https://github.com/lucatwiv/Free-cookie-law-tools/blob/master/free-cookie-law-tools.md#cookie-notice)
 + [Cookieconsent](https://github.com/lucatwiv/Free-cookie-law-tools/blob/master/free-cookie-law-tools.md#cookieconsent)
-+ [EUCookieLaw](https://github.com/lucatwiv/Free-cookie-law-tools/blob/master/free-cookie-law-tools.md#eucookielaw)
++ [EUCookieLaw](https://github.com/lucatwiv/Free-cookie-law-tools/blob/master/free-cookie-law-tools.md#eucookielawplugin)
 + [Italy-cookie-choices](https://github.com/lucatwiv/Free-cookie-law-tools/blob/master/free-cookie-law-tools.md#italy-cookie-choices)
 + [Wordpress-cookie-law-plugin](https://github.com/lucatwiv/Free-cookie-law-tools/blob/master/free-cookie-law-tools.md#wordpress-cookie-law-)
 
