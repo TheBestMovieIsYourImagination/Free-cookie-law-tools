@@ -12,8 +12,8 @@
 Wordpress plugin
 
 + [Cookie-notice](https://github.com/lucatwiv/Free-cookie-law-tools/blob/master/free-cookie-law-tools.md#cookie-notice)
-+ [Cookieconsent](https://github.com/lucatwiv/Free-cookie-law-tools/blob/master/free-cookie-law-tools.md#cookie-consent)
-+ [EUCookieLaw](https://github.com/lucatwiv/Free-cookie-law-tools/blob/master/free-cookie-law-tools.md#EUCookieLaw)
++ [Cookieconsent](https://github.com/lucatwiv/Free-cookie-law-tools/blob/master/free-cookie-law-tools.md#cookieconsent)
++ [EUCookieLaw](https://github.com/lucatwiv/Free-cookie-law-tools/blob/master/free-cookie-law-tools.md#eucookielaw)
 + [Italy-cookie-choices](https://github.com/lucatwiv/Free-cookie-law-tools/blob/master/free-cookie-law-tools.md#italy-cookie-choices)
 + [Wordpress-cookie-law-plugin](https://github.com/lucatwiv/Free-cookie-law-tools/blob/master/free-cookie-law-tools.md#wordpress-cookie-law-)
 
@@ -105,6 +105,9 @@ Please describe the pros and cons of the tools.
 
 ### EUCookieLaw
 [github.com/diegolamonica/EUCookieLaw](https://github.com/diegolamonica/EUCookieLaw)
+
+**Pros**
+* Prevents cookies
 
 <br><br>
 ## Wordpress Plugin
